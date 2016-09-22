@@ -7,7 +7,7 @@ import java.sql.ResultSetMetaData;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-
+//teeeeeeeeeeeeeeeeest
 public class DataBaseConnector {
 	{
 		try {
@@ -75,4 +75,6 @@ public class DataBaseConnector {
 			e.printStackTrace();
 		}
 	}
+	
+	
 }
