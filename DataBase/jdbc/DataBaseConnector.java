@@ -70,6 +70,7 @@ public class DataBaseConnector {
 		try {
 			DataBaseConnector d = new DataBaseConnector("127.0.0.1", "test", "3306", "flo", null);
 			System.out.println(d.executeQuery("Select * From kunden"));
+			System.out.println("TEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEESSSSSSSSSSSSSSSSSSSSSSST");
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
